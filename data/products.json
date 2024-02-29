@@ -1,0 +1,147 @@
+
+[  
+    {
+      "id": 1,
+      "title": "Page 2 - Jackets and Coats For Men ",
+      "price": 109.95,
+      "description": "Shop for trendy fashion style jackets and coats for men online at ZAFUL. Find the newest styles winter coats for men and cool men jackets at affordable prices.",
+      "category": "men's clothing",
+      "image": "https://i.pinimg.com/564x/e3/91/9f/e3919f01f29edaa51135df472da10bb1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Men Plaid Button Through Hooded Shirt",
+      "price": 22.3,
+      "description": "Free Returns ✓ Free Shipping On Orders $49+ ✓. Men Plaid Button Through Hooded Shirt- Men Shirts at SHEIN.",
+      "category": "men's clothing",
+      "image": "https://i.pinimg.com/564x/0c/3f/12/0c3f12e256b37d186c5b4348b2bfdd94.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Men Plaid Button Up Shirt",
+      "price": 55.99,
+      "description": "Black and White Preppy Long Sleeve Polyester Plaid Shirt Embellished Non-Stretch Spring/Fall Men Tops",
+      "category": "men's clothing",
+      "image": "https://i.pinimg.com/564x/68/45/07/68450734190726d20d18ecc1072341ab.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Men Plaid Print Hooded Shirt Without Tee",
+      "price": 15.99,
+      "description": "Black Casual Collar Long Sleeve Woven Fabric Plaid Shirt Embellished Non-Stretch Men Tops",
+      "category": "men's clothing",
+      "image": "https://i.pinimg.com/564x/81/11/85/81118570105e0623327673d04b4a4f18.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "Men Plaid Pocket Front Drawstring Hooded Overcoat Without Pullover",
+      "price": 695,
+      "description": "Multicolor Preppy Long Sleeve Wool-Like Fabric Plaid Regular Non-Stretch Spring/Fall Men Outerwear",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/564x/d6/6c/25/d66c2574805073832634f2fd11c1c4c8.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Men 1pc Plaid Dual Pocket Drawstring Hooded Shirt",
+      "price": 168,
+      "description": "Multicolor Casual Collar Long Sleeve Fabric Plaid Shirt Embellished Non-Stretch Men Tops",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/564x/da/76/58/da7658685259bba1489d4cf1bf5580c0.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/564x/d3/a7/ab/d3a7abe10480184fc185783c99dac428.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/564x/87/01/05/870105e816681d24f732f26bef474290.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "Mens Corduroy Plain Long Sleeve Drawstring Hooded Shirts with Pocket",
+      "price": 64,
+      "description": "Mens Corduroy Plain Long Sleeve Drawstring Hooded Shirts with Pocket Brand: ChArmkpR Decoration: Hood",
+      "category": "electronics",
+      "image": "https://i.pinimg.com/736x/78/65/a6/7865a641e3ba8960c0c9e3c5de1efeb7.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "Men Color Block Flap Pocket Corduroy Shirt",
+      "price": 109,
+      "description": "Black Casual Long Sleeve Corduroy Colorblock Shirt Non-Stretch Spring/Fall Men Tops",
+      "category": "electronics",
+      "image": "https://i.pinimg.com/564x/e3/80/53/e380536e0860492ce7486a5901cfeb20.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Men Contrast Panel Flap Pocket Corduroy Coat Without Top",
+      "price": 109,
+      "description": "Free Returns ✓ Free Shipping On Orders $49+ ✓. Men Contrast Panel Flap Pocket Corduroy Coat Without Top- Men Coats at SHEIN.",
+      "category": "electronics",
+      "image": "https://i.pinimg.com/736x/7e/c8/c1/7ec8c1ceeaed3c7e3e619f5665bbbfe8.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "Men Two Tone Pocket Front Drawstring Hooded Corduroy Coat",
+      "price": 114,
+      "description": "Multicolor Casual Long Sleeve Corduroy Colorblock Other Non-Stretch Spring/Fall Men Outerwear",
+      "category": "electronics",
+      "image": "https://i.pinimg.com/736x/b9/fb/d7/b9fbd7b9d0f38d0119fcfac181a8a0ff.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    }
+]
